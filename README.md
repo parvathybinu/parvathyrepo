@@ -1,3 +1,3 @@
 # parvathyrepo
-created for project
-they dont folloew trends..they set them
+Created for project.
+//They dont follow trends..they set them
